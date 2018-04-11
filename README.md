@@ -47,7 +47,9 @@
 | like_all_exist_media(num) | Like some number of media in queue |
 | auto_mod() | Automatically loop through tags and like photos |
 | unlike(id) | Unlike media, given its ID. |
+| like(id) | Like media, given its ID. |
 | comment(id, comment) | Write a comment on the media with a given ID. |
+| generate_comment() | Generate a random comment |
 | follow(id) | Follow the user with the given ID. |
 | unfollow(id) | Unfollow the user with the given ID. |
 | logout() | Log out of Instagram. |
